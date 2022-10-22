@@ -5,7 +5,7 @@ public class Tekrar5 {
         //Şifrelemede xor kullanımı
 
         int data=25;
-        int key=11;
+        int key=111;
 
         int sifreliData=data^key;
 
